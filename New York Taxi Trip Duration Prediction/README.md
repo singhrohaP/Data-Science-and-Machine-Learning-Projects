@@ -1,0 +1,2 @@
+- Created a predictive model that predicts the duration of a taxi trip in NYC by creating new features using feature engineering and building a model with good performance.
+- Predictive modeling, Feature Engineering, Regression models.
